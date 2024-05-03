@@ -3,9 +3,11 @@
 This is a BeatBox application where you can create and play rhythmic patterns using simulated instruments.
 The original code comes from the book "Head First Java" from O'Reilly written by Kathy Sierra, Bert Bates, Trisha Gee.
 The final task of the book was to improve this code adding new functionality:
--Generate random patterns with a dedicated button
--Save patterns with a dedicated button
--Handle the event when a username is not provided as required by the program
+-Generate random patterns with a dedicated button;
+
+-Save patterns with a dedicated button;
+
+-Handle the event when a username is not provided as required by the program;
 
 I made some graphic improvements too.
 
